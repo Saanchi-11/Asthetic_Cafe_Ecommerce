@@ -82,6 +82,23 @@
             color:#777;
         }
 
+        /* Cafe */
+
+        /* Cafe */
+
+        .cafe{
+            display:flex;
+            align-items:center;
+            gap:8px;
+        }
+
+        .cafe img{
+            width:1000px;
+            height:500px;
+            
+            margin-right: 1000px;
+        }
+
         /* Navigation */
 
         nav{
@@ -517,7 +534,7 @@
         .reservation-box{
             max-width:640px;
             margin:0 auto;
-            text-align:center;
+            text-align:right;
         }
 
         .reservation-form{

@@ -140,3 +140,54 @@
         button:hover{
             background:#a87837;
         }
+
+        /* Cafe */
+
+        .cafe{
+            display:flex;
+            align-items:center;
+            gap:8px;
+        }
+
+        .cafe img{
+            width:1000px;
+            height:500px;
+            
+            margin-right: 1000px;
+        }
+
+       .reservation{
+    background:#FFF0F3;
+    padding:70px 0;          /* Remove left and right padding */
+}
+
+.reservation-box{
+    width:100%;
+    display:flex;
+    align-items:center;
+}
+
+/* Left image */
+.reservation-image{
+    width:55%;
+}
+
+.reservation-image img{
+    width:100%;
+    height:520px;
+    object-fit:cover;
+    display:block;
+}
+
+/* Right side */
+.reservation-content{
+    width:45%;
+    padding:0 60px;
+}
+
+.reservation-form{
+    background:#fff;
+    border-radius:16px;
+    padding:35px;
+    box-shadow:0 10px 25px rgba(0,0,0,.1);
+}
