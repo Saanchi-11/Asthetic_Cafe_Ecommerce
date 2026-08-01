@@ -1,2 +1,2 @@
 # Asthetic_Cafe_Ecommerce
-group project
+Frontend group project 
